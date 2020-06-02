@@ -1,2 +1,0 @@
-# FoodVendorApplication
-VGG FoodVendorApplication 
